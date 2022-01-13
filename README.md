@@ -2,11 +2,11 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Business-Wizard.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Joseph-ML?tab=followers)
 
-[![Business-Wizard's github stats](https://github-readme-stats.vercel.app/api?username=Joseph-ML&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Joseph's github stats](https://github-readme-stats.vercel.app/api?username=josephw-ml&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph-ML&theme=blue-green&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josephw-ml&theme=blue-green&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 👋 Hi, I’m @Joseph-ML
+- 👋 Hi, I’m @josephw-ml
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
